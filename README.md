@@ -1,5 +1,5 @@
 # milkomeda
-A simulation of the eventual collision of the Andromeda and Milky Way galaxies
+(Fall 2020) A simulation of the eventual collision of the Andromeda and Milky Way galaxies
 
 ### Technologies
 
